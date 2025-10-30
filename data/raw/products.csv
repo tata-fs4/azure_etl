@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,brand,unit_cost
+P001,Cafe Premium Bebida Quente,Bebidas,Cafe,Barista Brasil,6.50
+P002,Chá Verde Organico,Bebidas,Cha,VerdeVida,4.20
+P003,Suco Natural de Laranja,Bebidas,Suco,Citrus+,3.80
+P004,Sanduiche Integral Frango,Alimentos,Sanduiche,Naturalle,8.90
+P005,Salada Gourmet Quinoa,Alimentos,Salada,FreshMix,10.50
+P006,Bolo de Chocolate,Confeitaria,Bolo,Doces da Serra,12.00
+P007,Cookie Integral,Confeitaria,Biscoito,GrainUp,2.50
+P008,Iogurte Grego Natural,Laticinios,Iogurte,LaGrega,5.30
+P009,Smoothie Frutas Vermelhas,Bebidas,Smoothie,BerryFit,7.20
+P010,Wrap Vegetariano,Alimentos,Wrap,GreenBite,9.80
