@@ -1,0 +1,11 @@
+customer_sk,customer_code,full_name,email,city,state,loyalty_tier,signup_date
+1,C001,Ana Souza,ana.souza@example.com,Sao Paulo,SP,Gold,2021-03-15
+2,C002,Bruno Lima,bruno.lima@example.com,Rio de Janeiro,RJ,Silver,2022-07-22
+3,C003,Carla Oliveira,carla.oliveira@example.com,Belo Horizonte,MG,Platinum,2020-11-03
+4,C004,Diego Almeida,diego.almeida@example.com,Curitiba,PR,Bronze,2023-01-14
+5,C005,Elaine Rocha,elaine.rocha@example.com,Porto Alegre,RS,Gold,2021-09-30
+6,C006,Felipe Martins,felipe.martins@example.com,Fortaleza,CE,Silver,2022-02-18
+7,C007,Gabriela Costa,gabriela.costa@example.com,Salvador,BA,Gold,2019-12-27
+8,C008,Henrique Silva,henrique.silva@example.com,Recife,PE,Platinum,2020-05-11
+9,C009,Isabela Ribeiro,isabela.ribeiro@example.com,Belem,PA,Silver,2022-08-05
+10,C010,Joao Pereira,joao.pereira@example.com,Goiania,GO,Bronze,2023-04-08
