@@ -1,0 +1,11 @@
+store_sk,store_code,store_name,city,state,region,store_format,opening_date
+1,S001,Cafe Urbano Paulista,Sao Paulo,SP,Sudeste,Flagship,2018-02-10
+2,S002,Cafe Urbano Carioca,Rio de Janeiro,RJ,Sudeste,Loja de Rua,2019-06-25
+3,S003,Cafe Urbano Pampulha,Belo Horizonte,MG,Sudeste,Quiosque,2020-09-18
+4,S004,Cafe Urbano Batel,Curitiba,PR,Sul,Loja de Rua,2017-11-07
+5,S005,Cafe Urbano Moinhos,Porto Alegre,RS,Sul,Flagship,2018-05-13
+6,S006,Cafe Urbano Aldeota,Fortaleza,CE,Nordeste,Loja de Rua,2021-03-29
+7,S007,Cafe Urbano Barra,Salvador,BA,Nordeste,Quiosque,2020-01-17
+8,S008,Cafe Urbano Boa Viagem,Recife,PE,Nordeste,Loja de Rua,2019-04-02
+9,S009,Cafe Urbano Nazare,Belem,PA,Norte,Quiosque,2022-07-12
+10,S010,Cafe Urbano Cerrado,Goiania,GO,Centro-Oeste,Loja de Rua,2021-10-08
